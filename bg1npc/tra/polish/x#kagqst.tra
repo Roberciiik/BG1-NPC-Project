@@ -1,72 +1,72 @@
-@0    = ~Có¿, faktycznie s¹ k³opoty na szlakach. Sam by³em ich œwiadkiem.~ ~Có¿, faktycznie s¹ k³opoty na szlakach. Sama by³am ich œwiadkiem.~
-@1    = ~Ch³opcze, znalaz³eœ siê w z³ym miejscu o z³ej porze!~
-@2    = ~Oj, to moje! £apy precz, sprzedajna gnido!~
-@3    = ~Poddajcie siê albo giñcie.~
-@4    = ~Nie ma litoœci dla takich padlin, jak oni.~
-@5    = ~Giñcie, plugastwa!~
-@6    = ~Muszê ciê teraz zabiæ. To nic osobistego, rozumiesz?~
-@7    = ~Pani, przynoszê wa¿ne wieœci. Podczas moich podró¿y natknêliœmy na zgrabion¹ karawanê... i cia³o m³odego mê¿czyzny w kolorach Srebrnej Tarczy. Bandyci, którzy go zabili, mieli tê zapinkê.~
-@8    = ~Wiêc Eddard nie ¿yje? To okropna wiadomoœæ. Daj mi tê zapinkê - zachowam j¹ jako pami¹tkê po moim kochanym pasierbie... ~
-@9    = ~Nie... nie... Czemu nic mi powiedzia³eœ, <CHARNAME>? M-m-mój brat... o nie!~ ~Nie... nie... Czemu nic mi powiedzia³aœ, <CHARNAME>? M-m-mój brat... o nie!~
+@0    = ~CÃ³Å¼, faktycznie sÄ… kÅ‚opoty na szlakach. Sam byÅ‚em ich Å›wiadkiem.~ ~CÃ³Å¼, faktycznie sÄ… kÅ‚opoty na szlakach. Sama byÅ‚am ich Å›wiadkiem.~
+@1    = ~ChÅ‚opcze, znalazÅ‚eÅ› siÄ™ w zÅ‚ym miejscu o zÅ‚ej porze!~
+@2    = ~Oj, to moje! Åapy precz, sprzedajna gnido!~
+@3    = ~Poddajcie siÄ™ albo giÅ„cie.~
+@4    = ~Nie ma litoÅ›ci dla takich padlin, jak oni.~
+@5    = ~GiÅ„cie, plugastwa!~
+@6    = ~MuszÄ™ ciÄ™ teraz zabiÄ‡. To nic osobistego, rozumiesz?~
+@7    = ~Pani, przynoszÄ™ waÅ¼ne wieÅ›ci. Podczas moich podrÃ³Å¼y natknÄ™liÅ›my na zgrabionÄ… karawanÄ™... i ciaÅ‚o mÅ‚odego mÄ™Å¼czyzny w kolorach Srebrnej Tarczy. Bandyci, ktÃ³rzy go zabili, mieli tÄ™ zapinkÄ™.~
+@8    = ~WiÄ™c Eddard nie Å¼yje? To okropna wiadomoÅ›Ä‡. Daj mi tÄ™ zapinkÄ™ - zachowam jÄ… jako pamiÄ…tkÄ™ po moim kochanym pasierbie... ~
+@9    = ~Nie... nie... Czemu nic mi powiedziaÅ‚eÅ›, <CHARNAME>? M-m-mÃ³j brat... o nie!~ ~Nie... nie... Czemu nic mi powiedziaÅ‚aÅ›, <CHARNAME>? M-m-mÃ³j brat... o nie!~
 @10   = ~Spokojnie, dziewczyno.~
 @11   = ~Co... Skie? Co ty wyrabiasz?~
-@12   = ~Ja.. Ja tylko eee... wychodzê. Heh...~
-@13   = ~Pfff, ubrana jak szczur œciekowy i z baga¿em na plecach? Szczerze, kochanie - ty uciekasz, czy¿ nie?~
-@14   = ~Ja... tak. Odchodzê. Mmmm... powiesz mojemu ojcu?~
-@15   = ~Hmmm... powiedzieæ mu? Niby czemu! To zaiste cudowny zwrot wydarzeñ...~
+@12   = ~Ja.. Ja tylko eee... wychodzÄ™. Heh...~
+@13   = ~Pfff, ubrana jak szczur Å›ciekowy i z bagaÅ¼em na plecach? Szczerze, kochanie - ty uciekasz, czyÅ¼ nie?~
+@14   = ~Ja... tak. OdchodzÄ™. Mmmm... powiesz mojemu ojcu?~
+@15   = ~Hmmm... powiedzieÄ‡ mu? Niby czemu! To zaiste cudowny zwrot wydarzeÅ„...~
 @16   = ~Co?...~
-@17   = ~Moje kochana, jesteœ tylko ma³¹, bogat¹, rozpieszczon¹ dziewczynk¹. Wyjesz, kiedy tylko z³amiesz sobie PAZNOKIEÆ. Naprawdê uwa¿asz, ¿e zdo³asz prze¿yæ w wielkim, z³ym œwiecie? Jeszcze nie widzia³em tak dobrego przyk³adu przynêty na gobliny.~
-@18   = ~A kiedy ju¿ umrzesz gdzieœ przy drodze, dok³adnie jak twój brat, JA bêdê siedzieæ na fortunie Srebrnej Tarczy.~
-@19   = ~Teraz sobie uciekasz - chocia¿... mo¿e mog³abyœ zostawiæ swojego przyjaciela, hmm? (uœmiecha siê do Eldotha)~
+@17   = ~Moje kochana, jesteÅ› tylko maÅ‚Ä…, bogatÄ…, rozpieszczonÄ… dziewczynkÄ…. Wyjesz, kiedy tylko zÅ‚amiesz sobie PAZNOKIEÄ†. NaprawdÄ™ uwaÅ¼asz, Å¼e zdoÅ‚asz przeÅ¼yÄ‡ w wielkim, zÅ‚ym Å›wiecie? Jeszcze nie widziaÅ‚em tak dobrego przykÅ‚adu przynÄ™ty na gobliny.~
+@18   = ~A kiedy juÅ¼ umrzesz gdzieÅ› przy drodze, dokÅ‚adnie jak twÃ³j brat, JA bÄ™dÄ™ siedzieÄ‡ na fortunie Srebrnej Tarczy.~
+@19   = ~Teraz sobie uciekasz - chociaÅ¼... moÅ¼e mogÅ‚abyÅ› zostawiÄ‡ swojego przyjaciela, hmm? (uÅ›miecha siÄ™ do Eldotha)~
 @20   = ~Ty... Ty DZIWKO!~
-@21   = ~Nie zbli¿aj siê do mojego Eldotha!~
-@22   = ~Spokojnie, spokojnie, moja najdro¿sza. Nie bêdzie ³atwo utrzymaæ twojego... um... odejœcia w tajemnicy, czy¿ nie? Nawet przed kimœ tak zajêtym sob¹, jak twój ojciec. Pozwól wiêc nam przywdziaæ skrzyd³a Mi³oœci i polecieæ tam, gdzie nas one ponios¹. (przytula Skie i mruga do Brilli sponad jej ramienia)~
-@23   = ~Hi-hi! Jeœli kiedyœ potrzebowa³bym kabareciarza, który urozmaici³by nudny wieczór, wiem ju¿ do kogo siê zg³osiæ. Trzymaj siê, cukiereczku! (Skie mamrocze coœ pod nosem i wyci¹ga Eldotha z pokoju)~
-@24   = ~Nigdy nie zaszkodzi wiêcej najemników, ¿eby dobrze wykonaæ robotê. Macie jakieœ doœwiadczenie?~
-@25   = ~Walczyliœmy z grup¹ bandytów, która w³aœnie zabi³a wszystkich cz³onków karawany na pó³noc st¹d. Jakaœ szansa, ¿e ta spinka nale¿y do ciebie?~
-@26   = ~Nie czêsto chyba wychodzisz zza tej lady, mam racjê? Hej, czy to nie pochodzi z jednej z twoich karawan? ZnaleŸliœmy to przy stercie cia³ na pó³noc st¹d.~
-@27   = ~Mo¿na tak powiedzieæ. Widzieliœmy rozbit¹ karawanê na pó³nocy, pokonaliœmy bandytów, ale by³o ju¿ za póŸno. Czy to nale¿y do ciebie?~
-@28   = ~Hej, cieszê siê, ¿e macie trochê rozumu we ³bie. Mam pomocnika, który mo¿e zaj¹æ siê interesem, kiedy mnie nie bêdzie, wiêc ruszajmy.~
-@29   = ~Có¿, faktycznie szlaki nie s¹ bezpieczne. Walczyliœmy z grup¹ bandytów, która w³aœnie zabi³a wszystkich cz³onków karawany na pó³noc st¹d. Jakaœ szansa, ¿e ta spinka nale¿y do ciebie?~
-@30   = ~Wiesz, w³aœnie sobie przypomnia³em... widzieliœmy rozbit¹ karawanê na pó³nocy i pokonaliœmy bandytów. Czy to nale¿y do ciebie?~ ~Wiesz, w³aœnie sobie przypomnia³am... widzieliœmy rozbit¹ karawanê na pó³nocy i pokonaliœmy bandytów. Czy to nale¿y do ciebie?~
-@31   = ~Có¿, jest to znak syna Srebrnej Tarczy. Martwi, mówicie? To by³a jedna z moich karawan. Zdaje siê, ¿e mam teraz spore k³opoty. Skoro on nie ¿yje, to bêdê poszukiwanym krasnoludem. Có¿, skoro moja reputacja zosta³a w³aœnie zmieszana z b³otem, co powiecie na pomoc wam w rozprawieniu siê z tymi szumowinami? Mo¿e moglibyœcie te¿ powiedzieæ o mnie s³ówko Srebrnym Tarczom. Co wy na to?~
-@32   = ~Nie chcemy ciê, spadaj.~
+@21   = ~Nie zbliÅ¼aj siÄ™ do mojego Eldotha!~
+@22   = ~Spokojnie, spokojnie, moja najdroÅ¼sza. Nie bÄ™dzie Å‚atwo utrzymaÄ‡ twojego... um... odejÅ›cia w tajemnicy, czyÅ¼ nie? Nawet przed kimÅ› tak zajÄ™tym sobÄ…, jak twÃ³j ojciec. PozwÃ³l wiÄ™c nam przywdziaÄ‡ skrzydÅ‚a MiÅ‚oÅ›ci i polecieÄ‡ tam, gdzie nas one poniosÄ…. (przytula Skie i mruga do Brilli sponad jej ramienia)~
+@23   = ~Hi-hi! JeÅ›li kiedyÅ› potrzebowaÅ‚bym kabareciarza, ktÃ³ry urozmaiciÅ‚by nudny wieczÃ³r, wiem juÅ¼ do kogo siÄ™ zgÅ‚osiÄ‡. Trzymaj siÄ™, cukiereczku! (Skie mamrocze coÅ› pod nosem i wyciÄ…ga Eldotha z pokoju)~
+@24   = ~Nigdy nie zaszkodzi wiÄ™cej najemnikÃ³w, Å¼eby dobrze wykonaÄ‡ robotÄ™. Macie jakieÅ› doÅ›wiadczenie?~
+@25   = ~WalczyliÅ›my z grupÄ… bandytÃ³w, ktÃ³ra wÅ‚aÅ›nie zabiÅ‚a wszystkich czÅ‚onkÃ³w karawany na pÃ³Å‚noc stÄ…d. JakaÅ› szansa, Å¼e ta spinka naleÅ¼y do ciebie?~
+@26   = ~Nie czÄ™sto chyba wychodzisz zza tej lady, mam racjÄ™? Hej, czy to nie pochodzi z jednej z twoich karawan? ZnaleÅºliÅ›my to przy stercie ciaÅ‚ na pÃ³Å‚noc stÄ…d.~
+@27   = ~MoÅ¼na tak powiedzieÄ‡. WidzieliÅ›my rozbitÄ… karawanÄ™ na pÃ³Å‚nocy, pokonaliÅ›my bandytÃ³w, ale byÅ‚o juÅ¼ za pÃ³Åºno. Czy to naleÅ¼y do ciebie?~
+@28   = ~Hej, cieszÄ™ siÄ™, Å¼e macie trochÄ™ rozumu we Å‚bie. Mam pomocnika, ktÃ³ry moÅ¼e zajÄ…Ä‡ siÄ™ interesem, kiedy mnie nie bÄ™dzie, wiÄ™c ruszajmy.~
+@29   = ~CÃ³Å¼, faktycznie szlaki nie sÄ… bezpieczne. WalczyliÅ›my z grupÄ… bandytÃ³w, ktÃ³ra wÅ‚aÅ›nie zabiÅ‚a wszystkich czÅ‚onkÃ³w karawany na pÃ³Å‚noc stÄ…d. JakaÅ› szansa, Å¼e ta spinka naleÅ¼y do ciebie?~
+@30   = ~Wiesz, wÅ‚aÅ›nie sobie przypomniaÅ‚em... widzieliÅ›my rozbitÄ… karawanÄ™ na pÃ³Å‚nocy i pokonaliÅ›my bandytÃ³w. Czy to naleÅ¼y do ciebie?~ ~Wiesz, wÅ‚aÅ›nie sobie przypomniaÅ‚am... widzieliÅ›my rozbitÄ… karawanÄ™ na pÃ³Å‚nocy i pokonaliÅ›my bandytÃ³w. Czy to naleÅ¼y do ciebie?~
+@31   = ~CÃ³Å¼, jest to znak syna Srebrnej Tarczy. Martwi, mÃ³wicie? To byÅ‚a jedna z moich karawan. Zdaje siÄ™, Å¼e mam teraz spore kÅ‚opoty. Skoro on nie Å¼yje, to bÄ™dÄ™ poszukiwanym krasnoludem. CÃ³Å¼, skoro moja reputacja zostaÅ‚a wÅ‚aÅ›nie zmieszana z bÅ‚otem, co powiecie na pomoc wam w rozprawieniu siÄ™ z tymi szumowinami? MoÅ¼e moglibyÅ›cie teÅ¼ powiedzieÄ‡ o mnie sÅ‚Ã³wko Srebrnym Tarczom. Co wy na to?~
+@32   = ~Nie chcemy ciÄ™, spadaj.~
 @33   = ~Zadanie Kagaina
 
-Syn Entara Srebrnej Tarczy zosta³ zamordowany. Nie zaufa³em Kagainowi, wiêc nasze œcie¿ki siê rozbieg³y, ale mogê zwróciæ tê zapinkê z powrotem Srebrnym Tarczom, kiedy bêdê we Wrotach Baldura...~ ~Zadanie Kagaina
+Syn Entara Srebrnej Tarczy zostaÅ‚ zamordowany. Nie zaufaÅ‚em Kagainowi, wiÄ™c nasze Å›cieÅ¼ki siÄ™ rozbiegÅ‚y, ale mogÄ™ zwrÃ³ciÄ‡ tÄ™ zapinkÄ™ z powrotem Srebrnym Tarczom, kiedy bÄ™dÄ™ we Wrotach Baldura...~ ~Zadanie Kagaina
 
-Syn Entara Srebrnej Tarczy zosta³ zamordowany. Nie zaufa³am Kagainowi, wiêc nasze œcie¿ki siê rozbieg³y, ale mogê zwróciæ tê zapinkê z powrotem Srebrnym Tarczom, kiedy bêdê we Wrotach Baldura...~
-@34   = ~Jasne, twoje umiejêtnoœci mog¹ nam siê przydaæ.~
+Syn Entara Srebrnej Tarczy zostaÅ‚ zamordowany. Nie zaufaÅ‚am Kagainowi, wiÄ™c nasze Å›cieÅ¼ki siÄ™ rozbiegÅ‚y, ale mogÄ™ zwrÃ³ciÄ‡ tÄ™ zapinkÄ™ z powrotem Srebrnym Tarczom, kiedy bÄ™dÄ™ we Wrotach Baldura...~
+@34   = ~Jasne, twoje umiejÄ™tnoÅ›ci mogÄ… nam siÄ™ przydaÄ‡.~
 @35   = ~Syn Entara
 
-Syn Entara Srebrnej Tarczy zosta³ zamordowany. Mo¿emy zwróciæ zapinkê jego rodzinie, kiedy bêdziemy we Wrotach Baldura.~
-@36   = ~A teraz o tej cenie najmu, o której wczeœniej gada³em. Macie, weŸcie to, ale spodziewam siê po was podzia³u ³upów. Jestem teraz biedny.~
+Syn Entara Srebrnej Tarczy zostaÅ‚ zamordowany. MoÅ¼emy zwrÃ³ciÄ‡ zapinkÄ™ jego rodzinie, kiedy bÄ™dziemy we Wrotach Baldura.~
+@36   = ~A teraz o tej cenie najmu, o ktÃ³rej wczeÅ›niej gadaÅ‚em. Macie, weÅºcie to, ale spodziewam siÄ™ po was podziaÅ‚u Å‚upÃ³w. Jestem teraz biedny.~
 @37   = ~Stupid chumps, your loss.~
-@38   = ~Nie chcê was poganiaæ, baranie ³by, ale mam karawanê do odnalezienia! Ruszaæ siê!~
-@39   = ~Zmierza³a z Beregostu na pó³nocny wschód, w stronê Wrót Baldura. Powiedzia³em im, ¿eby trzymali siê na wschód od g³ównej drogi.~
-@40   = ~Có¿, zobaczcie, co znalaz³em; to cia³o syna Srebrnej Tarczy. Zdaje siê, ¿e mam teraz spore k³opoty. Skoro on nie ¿yje, to bêdê poszukiwanym krasnoludem. Z tego, co widzê, jesteœcie przeciwko tym cholernym bandytom. Có¿, skoro moja reputacja zosta³a w³aœnie zmieszana z b³otem, to co powiecie na pomoc wam w rozprawieniu siê z tymi szumowinami?~
-@41   = ~Nie chcê, abyœ d³u¿ej z nami podró¿owa³, dzia³aj na w³asn¹ rêkê.~
-@42   = ~Jasne, twoje umiejêtnoœci mog¹ nam siê przydaæ. Do³¹cz do nas.~
-@43   = ~G³upi kretyni, wasza strata. No to odchodzê.~
+@38   = ~Nie chcÄ™ was poganiaÄ‡, baranie Å‚by, ale mam karawanÄ™ do odnalezienia! RuszaÄ‡ siÄ™!~
+@39   = ~ZmierzaÅ‚a z Beregostu na pÃ³Å‚nocny wschÃ³d, w stronÄ™ WrÃ³t Baldura. PowiedziaÅ‚em im, Å¼eby trzymali siÄ™ na wschÃ³d od gÅ‚Ã³wnej drogi.~
+@40   = ~CÃ³Å¼, zobaczcie, co znalazÅ‚em; to ciaÅ‚o syna Srebrnej Tarczy. Zdaje siÄ™, Å¼e mam teraz spore kÅ‚opoty. Skoro on nie Å¼yje, to bÄ™dÄ™ poszukiwanym krasnoludem. Z tego, co widzÄ™, jesteÅ›cie przeciwko tym cholernym bandytom. CÃ³Å¼, skoro moja reputacja zostaÅ‚a wÅ‚aÅ›nie zmieszana z bÅ‚otem, to co powiecie na pomoc wam w rozprawieniu siÄ™ z tymi szumowinami?~
+@41   = ~Nie chcÄ™, abyÅ› dÅ‚uÅ¼ej z nami podrÃ³Å¼owaÅ‚, dziaÅ‚aj na wÅ‚asnÄ… rÄ™kÄ™.~
+@42   = ~Jasne, twoje umiejÄ™tnoÅ›ci mogÄ… nam siÄ™ przydaÄ‡. DoÅ‚Ä…cz do nas.~
+@43   = ~GÅ‚upi kretyni, wasza strata. No to odchodzÄ™.~
 @44   = ~Zadanie Kagaina
 
-Syn Entara Srebrnej Tarczy zosta³ zamordowany. Nie podoba³o mi siê podejœcie Kagaina, wiêc nasze œcie¿ki siê rozbieg³y, ale mogê zwróciæ tê zapinkê Srebrnym Tarczom, kiedy bêdê we Wrotach Baldura...~
-@45   = ~A teraz o tych monetach, o których wczeœniej gada³em. Macie, weŸcie to, ale spodziewam siê po was podzia³u ³upów. Jestem teraz biedny.~
-@46   = ~Przynosimy wieœci dla Pana i Pani Srebrnej Tarczy. Zdaje siê, ¿e dowiedzieliœmy siê czegoœ o ich synu. Czy to jedna z waszych spinek?~
-@47   = ~Widzê, ¿e macie znan¹ w œwiecie pieczêæ. IdŸcie, proszê, od razu do Pani Srebrnej Tarczy. Znajdziecie j¹ na górze.~
+Syn Entara Srebrnej Tarczy zostaÅ‚ zamordowany. Nie podobaÅ‚o mi siÄ™ podejÅ›cie Kagaina, wiÄ™c nasze Å›cieÅ¼ki siÄ™ rozbiegÅ‚y, ale mogÄ™ zwrÃ³ciÄ‡ tÄ™ zapinkÄ™ Srebrnym Tarczom, kiedy bÄ™dÄ™ we Wrotach Baldura...~
+@45   = ~A teraz o tych monetach, o ktÃ³rych wczeÅ›niej gadaÅ‚em. Macie, weÅºcie to, ale spodziewam siÄ™ po was podziaÅ‚u Å‚upÃ³w. Jestem teraz biedny.~
+@46   = ~Przynosimy wieÅ›ci dla Pana i Pani Srebrnej Tarczy. Zdaje siÄ™, Å¼e dowiedzieliÅ›my siÄ™ czegoÅ› o ich synu. Czy to jedna z waszych spinek?~
+@47   = ~WidzÄ™, Å¼e macie znanÄ… w Å›wiecie pieczÄ™Ä‡. IdÅºcie, proszÄ™, od razu do Pani Srebrnej Tarczy. Znajdziecie jÄ… na gÃ³rze.~
 // BGEE #27194
 @48   = ~Syn Entara
-Po³¹czyliœmy si³y z Kagainem, krasnoludem który chce odnaleŸæ zaginionego szlachcica. Ten szlachcic to syn Entara Srebrnej Tarczy, wiêc Kagain desperacko pragnie go odnaleŸæ.~
+PoÅ‚Ä…czyliÅ›my siÅ‚y z Kagainem, krasnoludem ktÃ³ry chce odnaleÅºÄ‡ zaginionego szlachcica. Ten szlachcic to syn Entara Srebrnej Tarczy, wiÄ™c Kagain desperacko pragnie go odnaleÅºÄ‡.~
 @49   = ~Syn Entara
-Zwróciliœmy przypinkê syn Entara Srebrnej Tarczy jego rodzinie.~
-@50   = ~Có¿, faktycznie szlaki nie s¹ bezpieczne. Walczyliœmy z grup¹ bandytów, która w³aœnie zabi³a wszystkich cz³onków karawany na pó³noc st¹d.~
-@51   = ~Nie czêsto chyba wychodzisz zza tej lady, mam racjê? Wiesz, w³aœnie sobie przypomnia³em... widzieliœmy rozbit¹ karawanê na pó³nocy i pokonaliœmy bandytów.~ ~Nie czêsto chyba wychodzisz zza tej lady, mam racjê? Wiesz, w³aœnie sobie przypomnia³am... widzieliœmy rozbit¹ karawanê na pó³nocy i pokonaliœmy bandytów.~
-@52   = ~Martwi, mówicie? To by³a jedna z moich karawan. Zdaje siê, ¿e mam teraz spore k³opoty. Skoro Syn Entara Srebrnej Tarczy nie ¿yje, to bêdê poszukiwanym krasnoludem. Có¿, skoro moja reputacja zosta³a w³aœnie zmieszana z b³otem, co powiecie na pomoc wam w rozprawieniu siê z tymi szumowinami? Mo¿e moglibyœcie te¿ powiedzieæ o mnie s³ówko Srebrnym Tarczom. Co wy na to?~
+ZwrÃ³ciliÅ›my przypinkÄ™ syn Entara Srebrnej Tarczy jego rodzinie.~
+@50   = ~CÃ³Å¼, faktycznie szlaki nie sÄ… bezpieczne. WalczyliÅ›my z grupÄ… bandytÃ³w, ktÃ³ra wÅ‚aÅ›nie zabiÅ‚a wszystkich czÅ‚onkÃ³w karawany na pÃ³Å‚noc stÄ…d.~
+@51   = ~Nie czÄ™sto chyba wychodzisz zza tej lady, mam racjÄ™? Wiesz, wÅ‚aÅ›nie sobie przypomniaÅ‚em... widzieliÅ›my rozbitÄ… karawanÄ™ na pÃ³Å‚nocy i pokonaliÅ›my bandytÃ³w.~ ~Nie czÄ™sto chyba wychodzisz zza tej lady, mam racjÄ™? Wiesz, wÅ‚aÅ›nie sobie przypomniaÅ‚am... widzieliÅ›my rozbitÄ… karawanÄ™ na pÃ³Å‚nocy i pokonaliÅ›my bandytÃ³w.~
+@52   = ~Martwi, mÃ³wicie? To byÅ‚a jedna z moich karawan. Zdaje siÄ™, Å¼e mam teraz spore kÅ‚opoty. Skoro Syn Entara Srebrnej Tarczy nie Å¼yje, to bÄ™dÄ™ poszukiwanym krasnoludem. CÃ³Å¼, skoro moja reputacja zostaÅ‚a wÅ‚aÅ›nie zmieszana z bÅ‚otem, co powiecie na pomoc wam w rozprawieniu siÄ™ z tymi szumowinami? MoÅ¼e moglibyÅ›cie teÅ¼ powiedzieÄ‡ o mnie sÅ‚Ã³wko Srebrnym Tarczom. Co wy na to?~
 @53   = ~Zadanie Kagaina
-Syn Entara Srebrnej Tarczy zosta³ zamordowany. Nie zaufa³em Kagainowi, wiêc nasze œcie¿ki siê rozbieg³y.~
+Syn Entara Srebrnej Tarczy zostaÅ‚ zamordowany. Nie zaufaÅ‚em Kagainowi, wiÄ™c nasze Å›cieÅ¼ki siÄ™ rozbiegÅ‚y.~
 @54   = ~Syn Entara
-Syn Entara Srebrnej Tarczy zosta³ zamordowany.~
-@55   = ~Walczyliœmy z grup¹ bandytów, która w³aœnie zabi³a wszystkich cz³onków karawany na pó³noc st¹d.~
+Syn Entara Srebrnej Tarczy zostaÅ‚ zamordowany.~
+@55   = ~WalczyliÅ›my z grupÄ… bandytÃ³w, ktÃ³ra wÅ‚aÅ›nie zabiÅ‚a wszystkich czÅ‚onkÃ³w karawany na pÃ³Å‚noc stÄ…d.~
 @56   = ~Ach, z drugiej strony, nie specjalnie.~
-@57   = ~Eddard! *poci¹ga nosem* Nie mogê uwierzyæ, ¿e nie ¿yje.~
-@58   = ~Nie mogê uwierzyæ, ¿e nie ¿yje.~
+@57   = ~Eddard! *pociÄ…ga nosem* Nie mogÄ™ uwierzyÄ‡, Å¼e nie Å¼yje.~
+@58   = ~Nie mogÄ™ uwierzyÄ‡, Å¼e nie Å¼yje.~

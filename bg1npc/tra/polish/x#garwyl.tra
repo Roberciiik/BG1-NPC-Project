@@ -1,32 +1,32 @@
-@0    = ~Ten potrafi znaleŸæ opowieœæ, kto wie gdzie patrzeæ...~
-@1    = ~B³agam powiedz, kto tam idzie? Jesteœcie poszukiwaczami przygód?~
-@2    = ~To <CHARNAME> i ja, dzielny Sir Garrick, oraz nasz dru¿yna.~
-@3    = ~I Tiax, który rz¹dzi wszystkimi!~
-@4    = ~Hej, Garrick, zapomnia³eœ wspomnieæ o mnie! Mam na myœli, ¿e to ja JESTEM tym, którego powinieneœ przedstawiæ jako dowódcê...~
-@5    = ~Rozumiem, Sir Garrick. Jam jest Myr'Cutio. Przynajmniej by³em nim, zanim umar³em... Powiedz mi, jaka jest przyczyna twego przybycia?~
-@6    = ~Przychodzimy z proœb¹ o opowieœæ opart¹ na twojej m¹droœci i przygodach, szlachetny duchu.~
+@0    = ~Ten potrafi znaleÅºÄ‡ opowieÅ›Ä‡, kto wie gdzie patrzeÄ‡...~
+@1    = ~BÅ‚agam powiedz, kto tam idzie? JesteÅ›cie poszukiwaczami przygÃ³d?~
+@2    = ~To <CHARNAME> i ja, dzielny Sir Garrick, oraz nasz druÅ¼yna.~
+@3    = ~I Tiax, ktÃ³ry rzÄ…dzi wszystkimi!~
+@4    = ~Hej, Garrick, zapomniaÅ‚eÅ› wspomnieÄ‡ o mnie! Mam na myÅ›li, Å¼e to ja JESTEM tym, ktÃ³rego powinieneÅ› przedstawiÄ‡ jako dowÃ³dcÄ™...~
+@5    = ~Rozumiem, Sir Garrick. Jam jest Myr'Cutio. Przynajmniej byÅ‚em nim, zanim umarÅ‚em... Powiedz mi, jaka jest przyczyna twego przybycia?~
+@6    = ~Przychodzimy z proÅ›bÄ… o opowieÅ›Ä‡ opartÄ… na twojej mÄ…droÅ›ci i przygodach, szlachetny duchu.~
 @7    = ~Uchhhh...~
-@8    = ~Niestety, nie doœwiadczy³em wielu przygód w ostatnich latach. Nieumar³oœæ nie s³u¿y zbyt dobrze moim przyjacio³om, jak zreszt¹ i mnie, i wydaj¹ siê oni teraz raczej, za przeproszeniem, sztywni.~
-@9    = ~To nie do koñca tak, stary druhu!~
+@8    = ~Niestety, nie doÅ›wiadczyÅ‚em wielu przygÃ³d w ostatnich latach. NieumarÅ‚oÅ›Ä‡ nie sÅ‚uÅ¼y zbyt dobrze moim przyjacioÅ‚om, jak zresztÄ… i mnie, i wydajÄ… siÄ™ oni teraz raczej, za przeproszeniem, sztywni.~
+@9    = ~To nie do koÅ„ca tak, stary druhu!~
 @10   = ~Guchhhh...~
-@11   = ~Co? Tiax chcia³ siê przy³¹czyæ! Kiedy on bêdzie rz¹dzi³, WSZYSCY bêd¹ rozmowni jak zombie!~
-@12   = ~W porz¹dku, po zastanowieniu przyznajê ci racjê... Musimy ci siê pewnie wydawaæ nieco sztywni, Myr'Cutio.~
-@13   = ~Hej! Ty umiesz... eee... mówiæ?!?~
-@14   = ~Tak, oczywiœcie! Eee, znaczy, ³uuuuu...~
-@15   = ~Mamusia zwyk³a mówiæ, ¿e koœcieje nie s¹ najlepszymi rozmówcami. Mimo to zawsze znajdujê mnóstwo tematów o których móg³bym z nimi rozmawiaæ! Prawda, Monty?~
-@16   = ~£uuuuu...~
-@17   = ~Zamknij siê, przeklêty, g³upi czarodzieju...~
+@11   = ~Co? Tiax chciaÅ‚ siÄ™ przyÅ‚Ä…czyÄ‡! Kiedy on bÄ™dzie rzÄ…dziÅ‚, WSZYSCY bÄ™dÄ… rozmowni jak zombie!~
+@12   = ~W porzÄ…dku, po zastanowieniu przyznajÄ™ ci racjÄ™... Musimy ci siÄ™ pewnie wydawaÄ‡ nieco sztywni, Myr'Cutio.~
+@13   = ~Hej! Ty umiesz... eee... mÃ³wiÄ‡?!?~
+@14   = ~Tak, oczywiÅ›cie! Eee, znaczy, Å‚uuuuu...~
+@15   = ~Mamusia zwykÅ‚a mÃ³wiÄ‡, Å¼e koÅ›cieje nie sÄ… najlepszymi rozmÃ³wcami. Mimo to zawsze znajdujÄ™ mnÃ³stwo tematÃ³w o ktÃ³rych mÃ³gÅ‚bym z nimi rozmawiaÄ‡! Prawda, Monty?~
+@16   = ~Åuuuuu...~
+@17   = ~Zamknij siÄ™, przeklÄ™ty, gÅ‚upi czarodzieju...~
 @18   = ~Uch, rozumiem.~
-@19   = ~Prawdê mówi¹c, mnie tak¿e zmêczy³o to nie¿ycie. Mo¿e móg³bym na koniec moich przygód zostaæ pokonany przez ten dzielny oddzia³ towarzyszy, który widzê przed mymi oczyma.~
-@20   = ~Wszystko co nieumar³e jest wstrêtne! Na Helma, to czas, abyœ spotka³ swojego Stwórcê!~
-@21   = ~Czeka nas wspania³a bitwa, na Tempusa!~
+@19   = ~PrawdÄ™ mÃ³wiÄ…c, mnie takÅ¼e zmÄ™czyÅ‚o to nieÅ¼ycie. MoÅ¼e mÃ³gÅ‚bym na koniec moich przygÃ³d zostaÄ‡ pokonany przez ten dzielny oddziaÅ‚ towarzyszy, ktÃ³ry widzÄ™ przed mymi oczyma.~
+@20   = ~Wszystko co nieumarÅ‚e jest wstrÄ™tne! Na Helma, to czas, abyÅ› spotkaÅ‚ swojego StwÃ³rcÄ™!~
+@21   = ~Czeka nas wspaniaÅ‚a bitwa, na Tempusa!~
 @22   = ~Nie jestem pewien, ja...~
-@23   = ~Tak. ChodŸcie, raz jeszcze do boju, drodzy przyjaciele! I tak zakoñczy tutaj sw¹ opowieœæ Myr'Cutio, albo <CHARNAME>... Zobaczymy.~
-@24   = ~To tyle o literackiej wielkoœci.
+@23   = ~Tak. ChodÅºcie, raz jeszcze do boju, drodzy przyjaciele! I tak zakoÅ„czy tutaj swÄ… opowieÅ›Ä‡ Myr'Cutio, albo <CHARNAME>... Zobaczymy.~
+@24   = ~To tyle o literackiej wielkoÅ›ci.
 
-Spotkaliœmy ducha s³awnego Myr'Cutio i pokonaliœmy go w bitwie, w ten sposób koñcz¹c epiczn¹ historiê jego ¿ycia (lub nie¿ycia) i dodaj¹c j¹ do naszej historii. Wygl¹da wiêc jednak na to, ¿e mo¿na z ksi¹¿ek nauczyæ siê kilku interesuj¹cych rzeczy.~
-@25   = ~Zgadzam siê, ¿e wielki artysta powinien staæ siê nieœmiertelny dziêki swoim dzie³om... Myœlê jednak, ¿e przyk³ad Myr'Cutia pokazuje, ¿e prawdopodobnie najlepiej by³oby pozwoliæ ich cia³om zgniæ, kiedy up³ynie ich czas. Nie s¹dzê, abym kiedykolwiek zechcia³ byæ duchem, tak jak on... Jednak ta zbroja JEST bardzo szykowna.~ ~Zgadzam siê, ¿e wielki artysta powinien staæ siê nieœmiertelny dziêki swoim dzie³om... Myœlê jednak, ¿e przyk³ad Myr'Cutia pokazuje, ¿e prawdopodobnie najlepiej by³oby pozwoliæ ich cia³om zgniæ, kiedy up³ynie ich czas. Nie s¹dzê, abym kiedykolwiek zechcia³a byæ duchem, tak jak on... Jednak ta zbroja JEST bardzo szykowna.~
-@26   = ~Podró¿uj¹cy bibliotekarz.
+SpotkaliÅ›my ducha sÅ‚awnego Myr'Cutio i pokonaliÅ›my go w bitwie, w ten sposÃ³b koÅ„czÄ…c epicznÄ… historiÄ™ jego Å¼ycia (lub nieÅ¼ycia) i dodajÄ…c jÄ… do naszej historii. WyglÄ…da wiÄ™c jednak na to, Å¼e moÅ¼na z ksiÄ…Å¼ek nauczyÄ‡ siÄ™ kilku interesujÄ…cych rzeczy.~
+@25   = ~Zgadzam siÄ™, Å¼e wielki artysta powinien staÄ‡ siÄ™ nieÅ›miertelny dziÄ™ki swoim dzieÅ‚om... MyÅ›lÄ™ jednak, Å¼e przykÅ‚ad Myr'Cutia pokazuje, Å¼e prawdopodobnie najlepiej byÅ‚oby pozwoliÄ‡ ich ciaÅ‚om zgniÄ‡, kiedy upÅ‚ynie ich czas. Nie sÄ…dzÄ™, abym kiedykolwiek zechciaÅ‚ byÄ‡ duchem, tak jak on... Jednak ta zbroja JEST bardzo szykowna.~ ~Zgadzam siÄ™, Å¼e wielki artysta powinien staÄ‡ siÄ™ nieÅ›miertelny dziÄ™ki swoim dzieÅ‚om... MyÅ›lÄ™ jednak, Å¼e przykÅ‚ad Myr'Cutia pokazuje, Å¼e prawdopodobnie najlepiej byÅ‚oby pozwoliÄ‡ ich ciaÅ‚om zgniÄ‡, kiedy upÅ‚ynie ich czas. Nie sÄ…dzÄ™, abym kiedykolwiek zechciaÅ‚a byÄ‡ duchem, tak jak on... Jednak ta zbroja JEST bardzo szykowna.~
+@26   = ~PodrÃ³Å¼ujÄ…cy bibliotekarz.
 
-Dzisiaj spotkaliœmy zniedo³ê¿nia³ego, starego bibliotekarza o imieniu Archibald na Jarmarku Nashkel. Da³ nam kopiê Najwiêkszego Kompendium Œwietnych Ma³o Znanych Bohaterów pióra Saemona Schama, w którym znalaz³ siê interesuj¹cy rozdzia³ o o¿ywionym bardzie Myr'Cutio. Mówi siê, ¿e nawiedza on region Ulcaster, z grubsza na wschód od Beregostu. Garrick zapalczywie chce to zobaczyæ.~
-@999  = ~Podró¿uj¹cy bibliotekarz~
+Dzisiaj spotkaliÅ›my zniedoÅ‚Ä™Å¼niaÅ‚ego, starego bibliotekarza o imieniu Archibald na Jarmarku Nashkel. DaÅ‚ nam kopiÄ™ NajwiÄ™kszego Kompendium Åšwietnych MaÅ‚o Znanych BohaterÃ³w piÃ³ra Saemona Schama, w ktÃ³rym znalazÅ‚ siÄ™ interesujÄ…cy rozdziaÅ‚ o oÅ¼ywionym bardzie Myr'Cutio. MÃ³wi siÄ™, Å¼e nawiedza on region Ulcaster, z grubsza na wschÃ³d od Beregostu. Garrick zapalczywie chce to zobaczyÄ‡.~
+@999  = ~PodrÃ³Å¼ujÄ…cy bibliotekarz~

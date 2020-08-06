@@ -1,23 +1,23 @@
 // x#brint.tra @0, @1, @2, @3
-@0    = ~By³aœ bystrzejsza jako kamieñ!~
-@1    = ~Przestañ szczekaæ, psie. Przyby³am ukaraæ ciê za twoj¹ zdradê i u¿alanie siê nad sob¹! Tempus jest ze mn¹!~
-@2    = ~Mia³em nadziejê, ¿e zm¹drzejesz, wielka wiedŸmo, zanim znowu mnie nawiedzisz. Ale widzê, ¿e tego nie zrobi³aœ. Myœlisz, ¿e bojê siê ciebie i tych twoich prostaków, które uwolni³y ciê spod mojego czaru?~
-@3    = ~G³upia krowo. Jeœli wszyscy nie znikniecie mi z oczu w ci¹gu piêciu sekund, bêdziecie siê sma¿yæ do usranej œmierci!~
+@0    = ~ByÅ‚aÅ› bystrzejsza jako kamieÅ„!~
+@1    = ~PrzestaÅ„ szczekaÄ‡, psie. PrzybyÅ‚am ukaraÄ‡ ciÄ™ za twojÄ… zdradÄ™ i uÅ¼alanie siÄ™ nad sobÄ…! Tempus jest ze mnÄ…!~
+@2    = ~MiaÅ‚em nadziejÄ™, Å¼e zmÄ…drzejesz, wielka wiedÅºmo, zanim znowu mnie nawiedzisz. Ale widzÄ™, Å¼e tego nie zrobiÅ‚aÅ›. MyÅ›lisz, Å¼e bojÄ™ siÄ™ ciebie i tych twoich prostakÃ³w, ktÃ³re uwolniÅ‚y ciÄ™ spod mojego czaru?~
+@3    = ~GÅ‚upia krowo. JeÅ›li wszyscy nie znikniecie mi z oczu w ciÄ…gu piÄ™ciu sekund, bÄ™dziecie siÄ™ smaÅ¼yÄ‡ do usranej Å›mierci!~
 
 // x#ict3.tra @887, @888 (ending), @889, @890, @891, @888 (beginning)
-@4  = ~Jesteœ odra¿aj¹cym nikczemnikiem... Zabij go, <CHARNAME>. Ktoœ, kto b³aga o ¿ycie nie ma honoru. Zdradzi ciê dla Tazoka, jeœli pozwolisz mu odejœæ.~
-@5  = ~Jêdza!~
-@6  = ~Zobacz, biedaczysko siê prawie zafajda³o! Zabijmy go, aby ten s³abiak nie móg³ siê rozmno¿yæ. Chocia¿, to mo¿e nie byæ potrzebne. Zapewne po dzisiejszej przygodzie jego mêskoœæ ze strachu na zawsze utknê³a miêdzy jego poœladkami. (œmieje siê)~
+@4  = ~JesteÅ› odraÅ¼ajÄ…cym nikczemnikiem... Zabij go, <CHARNAME>. KtoÅ›, kto bÅ‚aga o Å¼ycie nie ma honoru. Zdradzi ciÄ™ dla Tazoka, jeÅ›li pozwolisz mu odejÅ›Ä‡.~
+@5  = ~JÄ™dza!~
+@6  = ~Zobacz, biedaczysko siÄ™ prawie zafajdaÅ‚o! Zabijmy go, aby ten sÅ‚abiak nie mÃ³gÅ‚ siÄ™ rozmnoÅ¼yÄ‡. ChociaÅ¼, to moÅ¼e nie byÄ‡ potrzebne. Zapewne po dzisiejszej przygodzie jego mÄ™skoÅ›Ä‡ ze strachu na zawsze utknÄ™Å‚a miÄ™dzy jego poÅ›ladkami. (Å›mieje siÄ™)~
 @7  = ~Suka.~
-@8  = ~<CHARNAME>, nie mo¿emy pozwoliæ uciec temu draniowi, bo na pewno poinformuje swoich prze³o¿onych. Rozs¹dnie by by³o, gdybyœmy mogli... zapobiec temu... w jakiœ sposób...~
-@9  = ~Nie, nie zdradzê, nie zdradzê...~
+@8  = ~<CHARNAME>, nie moÅ¼emy pozwoliÄ‡ uciec temu draniowi, bo na pewno poinformuje swoich przeÅ‚oÅ¼onych. RozsÄ…dnie by byÅ‚o, gdybyÅ›my mogli... zapobiec temu... w jakiÅ› sposÃ³b...~
+@9  = ~Nie, nie zdradzÄ™, nie zdradzÄ™...~
 
 // x#brint.tra @4
-@10 = ~Nie! <CHARNAME> da³ ci swe upowa¿nienie, ale nie masz mojego! Do broni!~ ~Nie! <CHARNAME> da³a ci swe upowa¿nienie, ale nie masz mojego! Do broni!~
+@10 = ~Nie! <CHARNAME> daÅ‚ ci swe upowaÅ¼nienie, ale nie masz mojego! Do broni!~ ~Nie! <CHARNAME> daÅ‚a ci swe upowaÅ¼nienie, ale nie masz mojego! Do broni!~
 
 // x#jaint.tra @61, @62
-@11 = ~Nie podoba mi siê obieranie tej œcie¿ki, ale niestety jest to jedyny bezpieczny wybór. Pozostanê w zgodzie z twoj¹ decyzj¹, <CHARNAME>.~
+@11 = ~Nie podoba mi siÄ™ obieranie tej Å›cieÅ¼ki, ale niestety jest to jedyny bezpieczny wybÃ³r. PozostanÄ™ w zgodzie z twojÄ… decyzjÄ…, <CHARNAME>.~
 @12 = ~Wszyscy zginiecie!~
 
 // x#brint.tra @55
-@13 = ~Ten niehonorowy pies jest martwy! Tempusie, twoja wola zosta³a wype³niona! ChodŸcie, wypijmy za Tempusa i za zwyciêstwo, <CHARNAME>!~
+@13 = ~Ten niehonorowy pies jest martwy! Tempusie, twoja wola zostaÅ‚a wypeÅ‚niona! ChodÅºcie, wypijmy za Tempusa i za zwyciÄ™stwo, <CHARNAME>!~

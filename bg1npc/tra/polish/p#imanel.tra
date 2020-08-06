@@ -1,69 +1,69 @@
-@0    = ~Hej¿e, podró¿ni. Ten zakapturzony elf pasuje do opisu. Czy ty jesteœ Kivan z Shilmisty?~
-@1    = ~Œnie¿ka, do nogi! R¹czyszpon, ZACHOWUJ siê!
+@0    = ~HejÅ¼e, podrÃ³Å¼ni. Ten zakapturzony elf pasuje do opisu. Czy ty jesteÅ› Kivan z Shilmisty?~
+@1    = ~ÅšnieÅ¼ka, do nogi! RÄ…czyszpon, ZACHOWUJ siÄ™!
 Straszny, zostaw go w spokoju!
-Kociak, noga, dobra dziewczynka... Kie³, przestañ œliniæ zbrojê tego dobrego Pana. To nie on jest wasz¹ kolacj¹.~ ~Œnie¿ka, do nogi! R¹czyszpon, ZACHOWUJ siê!
-Straszny, zostaw j¹ w spokoju!
-Kociak, noga, dobra dziewczynka... Kie³, przestañ œliniæ zbrojê tej dobrej Pani. 
-To nie ona jest wasz¹ kolacj¹.~
-@2    = ~Wiêc wygl¹da na to, ¿e potrafisz zabiæ. Bardzo dobrze.~
-@3    = ~Do³¹czysz do mnie, Imanel?~
-@4    = ~Dostanê nagrodê?~
-@5    = ~Taa, niez³y ubaw.~
-@6    = ~(chichocze) Zrobi³eœ to, co chcia³am, abyœ zrobi³. Nie mam z ciebie ¿adnego po¿ytku. B¹dŸ wdziêczny, ¿e pozwalam ci odejœæ z nienaruszonym grzbietem.~ ~(chichocze) Zrobi³aœ to, co chcia³am, abyœ zrobi³a. Nie mam z ciebie ¿adnego po¿ytku. B¹dŸ wdziêczna, ¿e pozwalam ci odejœæ z nienaruszonym grzbietem.~
-@7    = ~Niech tak bêdzie.~
-@8    = ~¯egnaj wiêc. Gdy doroœniesz, mellonamin, MO¯E staniesz siê wystarczaj¹co dobry, by mi towarzyszyæ. Dobrych ³owów.~ ~¯egnaj wiêc. Gdy doroœniesz, mellonamin, MO¯E staniesz siê wystarczaj¹co dobra, by mi towarzyszyæ. Pomyœlnych ³owów.~
-@9    = ~Wiêc ¿egnaj. Pomyœlnych ³owów.~
-@10   = ~(œmieje siê) Co do nagrody, to za twoj¹ g³owê te¿ j¹ wyznaczono. Ju¿ czujê te pieni¹dze w mojej sakwie! Jesteœ os³abiony i walka nie potrwa d³ugo. Na wszystkich bogów, lubiê g³upie ofiary!~ ~(œmieje siê) Co do nagrody, to za twoj¹ g³owê te¿ j¹ wyznaczono. Ju¿ czujê te pieni¹dze w mojej sakwie! Jesteœ os³abiona i walka nie potrwa d³ugo. Na wszystkich bogów, lubiê g³upie ofiary!~
-@11   = ~Ty, wydajesz siê przewodziæ tej... bandzie. Co powiesz?~
-@12   = ~Srebrnoklinga, twoja paplanina zabra³a nam ju¿ wystarczaj¹co wiele czasu. Kivan jest moim przyjacielem. Bêdê walczy³ u jego boku, nie bacz¹c na nic. Jego wróg jest moim wrogiem.~ ~Srebrnoklinga, twoja paplanina zabra³a nam ju¿ wystarczaj¹co wiele czasu. Kivan jest moim przyjacielem. Bêdê walczy³a u jego boku, nie bacz¹c na nic. Jego wróg jest moim wrogiem.~
-@13   = ~To TY mo¿esz do MNIE do³¹czyæ, jeœli chcesz.~
-@14   = ~Och, znudzi³o ci siê towarzystwo tych piesków œlini¹cych siê u twych stóp?~
+Kociak, noga, dobra dziewczynka... KieÅ‚, przestaÅ„ Å›liniÄ‡ zbrojÄ™ tego dobrego Pana. To nie on jest waszÄ… kolacjÄ….~ ~ÅšnieÅ¼ka, do nogi! RÄ…czyszpon, ZACHOWUJ siÄ™!
+Straszny, zostaw jÄ… w spokoju!
+Kociak, noga, dobra dziewczynka... KieÅ‚, przestaÅ„ Å›liniÄ‡ zbrojÄ™ tej dobrej Pani. 
+To nie ona jest waszÄ… kolacjÄ….~
+@2    = ~WiÄ™c wyglÄ…da na to, Å¼e potrafisz zabiÄ‡. Bardzo dobrze.~
+@3    = ~DoÅ‚Ä…czysz do mnie, Imanel?~
+@4    = ~DostanÄ™ nagrodÄ™?~
+@5    = ~Taa, niezÅ‚y ubaw.~
+@6    = ~(chichocze) ZrobiÅ‚eÅ› to, co chciaÅ‚am, abyÅ› zrobiÅ‚. Nie mam z ciebie Å¼adnego poÅ¼ytku. BÄ…dÅº wdziÄ™czny, Å¼e pozwalam ci odejÅ›Ä‡ z nienaruszonym grzbietem.~ ~(chichocze) ZrobiÅ‚aÅ› to, co chciaÅ‚am, abyÅ› zrobiÅ‚a. Nie mam z ciebie Å¼adnego poÅ¼ytku. BÄ…dÅº wdziÄ™czna, Å¼e pozwalam ci odejÅ›Ä‡ z nienaruszonym grzbietem.~
+@7    = ~Niech tak bÄ™dzie.~
+@8    = ~Å»egnaj wiÄ™c. Gdy doroÅ›niesz, mellonamin, MOÅ»E staniesz siÄ™ wystarczajÄ…co dobry, by mi towarzyszyÄ‡. Dobrych Å‚owÃ³w.~ ~Å»egnaj wiÄ™c. Gdy doroÅ›niesz, mellonamin, MOÅ»E staniesz siÄ™ wystarczajÄ…co dobra, by mi towarzyszyÄ‡. PomyÅ›lnych Å‚owÃ³w.~
+@9    = ~WiÄ™c Å¼egnaj. PomyÅ›lnych Å‚owÃ³w.~
+@10   = ~(Å›mieje siÄ™) Co do nagrody, to za twojÄ… gÅ‚owÄ™ teÅ¼ jÄ… wyznaczono. JuÅ¼ czujÄ™ te pieniÄ…dze w mojej sakwie! JesteÅ› osÅ‚abiony i walka nie potrwa dÅ‚ugo. Na wszystkich bogÃ³w, lubiÄ™ gÅ‚upie ofiary!~ ~(Å›mieje siÄ™) Co do nagrody, to za twojÄ… gÅ‚owÄ™ teÅ¼ jÄ… wyznaczono. JuÅ¼ czujÄ™ te pieniÄ…dze w mojej sakwie! JesteÅ› osÅ‚abiona i walka nie potrwa dÅ‚ugo. Na wszystkich bogÃ³w, lubiÄ™ gÅ‚upie ofiary!~
+@11   = ~Ty, wydajesz siÄ™ przewodziÄ‡ tej... bandzie. Co powiesz?~
+@12   = ~Srebrnoklinga, twoja paplanina zabraÅ‚a nam juÅ¼ wystarczajÄ…co wiele czasu. Kivan jest moim przyjacielem. BÄ™dÄ™ walczyÅ‚ u jego boku, nie baczÄ…c na nic. Jego wrÃ³g jest moim wrogiem.~ ~Srebrnoklinga, twoja paplanina zabraÅ‚a nam juÅ¼ wystarczajÄ…co wiele czasu. Kivan jest moim przyjacielem. BÄ™dÄ™ walczyÅ‚a u jego boku, nie baczÄ…c na nic. Jego wrÃ³g jest moim wrogiem.~
+@13   = ~To TY moÅ¼esz do MNIE doÅ‚Ä…czyÄ‡, jeÅ›li chcesz.~
+@14   = ~Och, znudziÅ‚o ci siÄ™ towarzystwo tych pieskÃ³w Å›liniÄ…cych siÄ™ u twych stÃ³p?~
 @15   = ~O co chodzi z tymi wszystkimi wilkami?~
-@16   = ~(chichocze) Œmiecie trzymaj¹ siê razem. Oznacza to wiêksze ³upy. Powtarzam me pytanie: czy ktokolwiek w waszym gronie mi³uje wolny styl ¿ycia? Albo jakikolwiek styl ¿ycia?~
-@17   = ~Jesteœ ambitny, nie? Udowodnij mi, ¿eœ wart bym zwa³a ciê mym dowódc¹. Zabij ³owcê, chcê zobaczyæ ciê w akcji.~ ~Jesteœ ambitna, nie? Udowodnij mi, ¿eœ warta bym zwa³a ciê mym dowódc¹. Zabij ³owcê, chcê zobaczyæ ciê w akcji.~
-@18   = ~Co powiesz na to, abyœmy zostawili ³owcê w spokoju, a ty zajê³abyœ jego miejsce? Lubiê ciê o wiele bardziej... ale nie chcê, aby inni mówili, ¿e dobywam miecza przeciw swoich towarzyszom.~
-@19   = ~Mówisz - masz. Prawdê powiedziawszy, jestem zaskoczony, ¿e tak d³ugo prze¿y³ u mego boku.~ ~Mówisz - masz. Prawdê powiedziawszy, jestem zaskoczona, ¿e tak d³ugo prze¿y³ u mego boku.~
-@20   = ~Nie takiej postawy oczekujê od swych niewolników... i wspó³towarzyszy, oczywiœcie. Chyba w³aœnie nadesz³a pora na tw¹ œmieræ.~
-@21   = ~Doskonale. Usadowiê siê wygodnie, a ty zaczynaj rzeŸ.~
-@22   = ~Moje wilki s¹ mi towarzyszami. Jednak czasami przydaje mi siê ktoœ chodz¹cy na dwóch nogach i w³adaj¹cy Wspólnym. Oczywiœcie, nie zaakceptujê u siebie na s³u¿bie nikogo obcego, wiêc oczekujê, ¿e poddasz siê ma³emu testowi. Zabij ³owcê, chcê zobaczyæ ciê w akcji.~
-@23   = ~Pani, zwolnij. JA nie chcê s³u¿yæ TOBIE. To TY mo¿esz siê do MNIE do³¹czyæ, jeœli chcesz.~
-@24   = ~Œnie¿ka, do ataku! R¹czyszponie, NAPRZÓD!
-Straszny, braæ ich! Kociak, b¹dŸ dobr¹ dziewczynk¹ i zabij! Kie³, przestañ œliniæ zbrojê tego dobrego pana i rozerwij mu gard³o, natychmiast!~ ~Œnie¿ka, do ataku! R¹czyszponie, NAPRZÓD!
-Straszny, braæ ich! Kociak, b¹dŸ dobr¹ dziewczynk¹ i zabij! Kie³, przestañ œliniæ zbrojê tej dobrej pani i rozerwij jej gard³o, natychmiast!~
-@25   = ~<CHARNAME>, goth en gothamin ar' mellon en mellonamin - wróg mego wroga i przyjaciel mego przyjaciela - na pierwsze m³ode drzewo wyros³e tam, gdzie Shilmista stoi, i ostatni cieñ, jakie rzuci nim spotka swój kres, przysiêgam oddaæ m¹ krew za ciebie.~
-@26   = ~Wygl¹da na to, ¿e w tej bitwie jesteœmy sojusznikami, <CHARNAME>, nawet jeœli niechêtnie.~
-@27   = ~Nic nie boli bardziej ni¿ zdrada. Mia³eœ moj¹ przyjaŸñ, a teraz chcesz moj¹ g³owê? ChodŸ; spróbuj j¹ zdj¹æ z mych ramion.~ ~Nic nie boli bardziej ni¿ zdrada. Mia³aœ moj¹ przyjaŸñ, a teraz chcesz moj¹ g³owê? ChodŸ; spróbuj j¹ zdj¹æ z mych ramion.~
+@16   = ~(chichocze) Åšmiecie trzymajÄ… siÄ™ razem. Oznacza to wiÄ™ksze Å‚upy. Powtarzam me pytanie: czy ktokolwiek w waszym gronie miÅ‚uje wolny styl Å¼ycia? Albo jakikolwiek styl Å¼ycia?~
+@17   = ~JesteÅ› ambitny, nie? Udowodnij mi, Å¼eÅ› wart bym zwaÅ‚a ciÄ™ mym dowÃ³dcÄ…. Zabij Å‚owcÄ™, chcÄ™ zobaczyÄ‡ ciÄ™ w akcji.~ ~JesteÅ› ambitna, nie? Udowodnij mi, Å¼eÅ› warta bym zwaÅ‚a ciÄ™ mym dowÃ³dcÄ…. Zabij Å‚owcÄ™, chcÄ™ zobaczyÄ‡ ciÄ™ w akcji.~
+@18   = ~Co powiesz na to, abyÅ›my zostawili Å‚owcÄ™ w spokoju, a ty zajÄ™Å‚abyÅ› jego miejsce? LubiÄ™ ciÄ™ o wiele bardziej... ale nie chcÄ™, aby inni mÃ³wili, Å¼e dobywam miecza przeciw swoich towarzyszom.~
+@19   = ~MÃ³wisz - masz. PrawdÄ™ powiedziawszy, jestem zaskoczony, Å¼e tak dÅ‚ugo przeÅ¼yÅ‚ u mego boku.~ ~MÃ³wisz - masz. PrawdÄ™ powiedziawszy, jestem zaskoczona, Å¼e tak dÅ‚ugo przeÅ¼yÅ‚ u mego boku.~
+@20   = ~Nie takiej postawy oczekujÄ™ od swych niewolnikÃ³w... i wspÃ³Å‚towarzyszy, oczywiÅ›cie. Chyba wÅ‚aÅ›nie nadeszÅ‚a pora na twÄ… Å›mierÄ‡.~
+@21   = ~Doskonale. UsadowiÄ™ siÄ™ wygodnie, a ty zaczynaj rzeÅº.~
+@22   = ~Moje wilki sÄ… mi towarzyszami. Jednak czasami przydaje mi siÄ™ ktoÅ› chodzÄ…cy na dwÃ³ch nogach i wÅ‚adajÄ…cy WspÃ³lnym. OczywiÅ›cie, nie zaakceptujÄ™ u siebie na sÅ‚uÅ¼bie nikogo obcego, wiÄ™c oczekujÄ™, Å¼e poddasz siÄ™ maÅ‚emu testowi. Zabij Å‚owcÄ™, chcÄ™ zobaczyÄ‡ ciÄ™ w akcji.~
+@23   = ~Pani, zwolnij. JA nie chcÄ™ sÅ‚uÅ¼yÄ‡ TOBIE. To TY moÅ¼esz siÄ™ do MNIE doÅ‚Ä…czyÄ‡, jeÅ›li chcesz.~
+@24   = ~ÅšnieÅ¼ka, do ataku! RÄ…czyszponie, NAPRZÃ“D!
+Straszny, braÄ‡ ich! Kociak, bÄ…dÅº dobrÄ… dziewczynkÄ… i zabij! KieÅ‚, przestaÅ„ Å›liniÄ‡ zbrojÄ™ tego dobrego pana i rozerwij mu gardÅ‚o, natychmiast!~ ~ÅšnieÅ¼ka, do ataku! RÄ…czyszponie, NAPRZÃ“D!
+Straszny, braÄ‡ ich! Kociak, bÄ…dÅº dobrÄ… dziewczynkÄ… i zabij! KieÅ‚, przestaÅ„ Å›liniÄ‡ zbrojÄ™ tej dobrej pani i rozerwij jej gardÅ‚o, natychmiast!~
+@25   = ~<CHARNAME>, goth en gothamin ar' mellon en mellonamin - wrÃ³g mego wroga i przyjaciel mego przyjaciela - na pierwsze mÅ‚ode drzewo wyrosÅ‚e tam, gdzie Shilmista stoi, i ostatni cieÅ„, jakie rzuci nim spotka swÃ³j kres, przysiÄ™gam oddaÄ‡ mÄ… krew za ciebie.~
+@26   = ~WyglÄ…da na to, Å¼e w tej bitwie jesteÅ›my sojusznikami, <CHARNAME>, nawet jeÅ›li niechÄ™tnie.~
+@27   = ~Nic nie boli bardziej niÅ¼ zdrada. MiaÅ‚eÅ› mojÄ… przyjaÅºÅ„, a teraz chcesz mojÄ… gÅ‚owÄ™? ChodÅº; sprÃ³buj jÄ… zdjÄ…Ä‡ z mych ramion.~ ~Nic nie boli bardziej niÅ¼ zdrada. MiaÅ‚aÅ› mojÄ… przyjaÅºÅ„, a teraz chcesz mojÄ… gÅ‚owÄ™? ChodÅº; sprÃ³buj jÄ… zdjÄ…Ä‡ z mych ramion.~
 @28   = ~Tak.~
-@29   = ~Krótko i na temat.~
+@29   = ~KrÃ³tko i na temat.~
 @30   = ~Jestem Imanel Srebrnoklinga.~
-@31   = ~Chêtnie bym sobie z tob¹ pogawêdzi³a, ale Tazok wspomnia³, ¿e to twoja ¿ona zawsze by³a t¹, która mówi³a. (wzdycha)~
-@32   = ~Tazok jest moim przyjacielem, jeœli umknê³a ci ta subtelna aluzja.~
-@33   = ~Masz mój ³uk.~
-@34   = ~Och, tak, Tazok nie wiedzia³by co z nim zrobiæ, zosta³ zrobiony przez elfów i tak umagiczniony, by tylko elf móg³ nim w³adaæ. Wiêc teraz mam go ja. To rozkoszna broñ, Kivanie.~
-@35   = ~Lubiê j¹.~
-@36   = ~Deheriana da³a mi go jako prezent œlubny. Jeœli masz w sobie odrobinê honoru, zwrócisz mi go, ³amaczko przysi¹g.~
-@37   = ~£amaczko przysi¹g? Widzê, ¿e masz poczucie humoru. Lubiê to u mê¿czyzn.~
-@38   = ~A przynajmniej mam tak¹ nadziejê. A mo¿e jesteœ jedn¹ z tych ¿a³osnych istot, które traktuj¹ te ca³e œlubowanie ³owców powa¿nie?~
-@39   = ~¯al mi tych, którzy ³ami¹ s³owo, a nie tych którzy je daj¹.~
-@40   = ~A wiêc to nie by³o poczucie humoru?~
-@41   = ~Jaka szkoda! Có¿, przejdŸmy wiêc mo¿e do interesów? Mam hojne serce i potrzebujê ludzi. Ci przeklêci g³upcy pozabijali siê, gdy obrabowaliœcie nasz obóz. (wzrusza ramionami) Czego oczekiwaæ po Na'N'Tel'Quess - to ledwo istoty. Ty przynajmniej jesteœ elfem.~
-@42   = ~Jestem skora daæ ci szansê - wezmê ciê pod swoje ochronne skrzyd³a i poka¿ê ci, o co chodzi w ¿yciu, Kivanie. ~
-@43   = ~Nie sprzymierzê siê z tob¹.~
-@44   = ~Och, nie rozumiesz, ¿e w przeciwnym razie czeka na ciebie nagrobek z twym imieniem? To niezbyt mi³a perspektywa, co?~
-@45   = ~Zap³acono mi, bym wróci³a do Tazoka z twoj¹ g³ow¹. Mam zamiar DOTRZYMAÆ S£OWA, jeœli nie dasz mi powodu, bym ciê oszczêdzi³a.~
-@46   = ~Odmów mi, a nikt nie pomœci biednej Deheriany. Jeœli przyjmiesz m¹ ofertê... pomogê ci zajœæ Tazoka. W koñcu, wci¹¿ by nalega³ z brutaln¹ zawziêtoœci¹ swojej podrasy, abym podciê³a ci gard³o.~
-@47   = ~Kiedy przyjdzie sp³aciæ d³ug, sprzymierzê siê z tym, który bardziej mi siê spodoba. I tu masz tê przewagê nad Tazokiem, Kivanie.~
-@48   = ~Hmmm... jeœli siê tylko trochê umyjesz.~
+@31   = ~ChÄ™tnie bym sobie z tobÄ… pogawÄ™dziÅ‚a, ale Tazok wspomniaÅ‚, Å¼e to twoja Å¼ona zawsze byÅ‚a tÄ…, ktÃ³ra mÃ³wiÅ‚a. (wzdycha)~
+@32   = ~Tazok jest moim przyjacielem, jeÅ›li umknÄ™Å‚a ci ta subtelna aluzja.~
+@33   = ~Masz mÃ³j Å‚uk.~
+@34   = ~Och, tak, Tazok nie wiedziaÅ‚by co z nim zrobiÄ‡, zostaÅ‚ zrobiony przez elfÃ³w i tak umagiczniony, by tylko elf mÃ³gÅ‚ nim wÅ‚adaÄ‡. WiÄ™c teraz mam go ja. To rozkoszna broÅ„, Kivanie.~
+@35   = ~LubiÄ™ jÄ….~
+@36   = ~Deheriana daÅ‚a mi go jako prezent Å›lubny. JeÅ›li masz w sobie odrobinÄ™ honoru, zwrÃ³cisz mi go, Å‚amaczko przysiÄ…g.~
+@37   = ~Åamaczko przysiÄ…g? WidzÄ™, Å¼e masz poczucie humoru. LubiÄ™ to u mÄ™Å¼czyzn.~
+@38   = ~A przynajmniej mam takÄ… nadziejÄ™. A moÅ¼e jesteÅ› jednÄ… z tych Å¼aÅ‚osnych istot, ktÃ³re traktujÄ… te caÅ‚e Å›lubowanie Å‚owcÃ³w powaÅ¼nie?~
+@39   = ~Å»al mi tych, ktÃ³rzy Å‚amiÄ… sÅ‚owo, a nie tych ktÃ³rzy je dajÄ….~
+@40   = ~A wiÄ™c to nie byÅ‚o poczucie humoru?~
+@41   = ~Jaka szkoda! CÃ³Å¼, przejdÅºmy wiÄ™c moÅ¼e do interesÃ³w? Mam hojne serce i potrzebujÄ™ ludzi. Ci przeklÄ™ci gÅ‚upcy pozabijali siÄ™, gdy obrabowaliÅ›cie nasz obÃ³z. (wzrusza ramionami) Czego oczekiwaÄ‡ po Na'N'Tel'Quess - to ledwo istoty. Ty przynajmniej jesteÅ› elfem.~
+@42   = ~Jestem skora daÄ‡ ci szansÄ™ - wezmÄ™ ciÄ™ pod swoje ochronne skrzydÅ‚a i pokaÅ¼Ä™ ci, o co chodzi w Å¼yciu, Kivanie. ~
+@43   = ~Nie sprzymierzÄ™ siÄ™ z tobÄ….~
+@44   = ~Och, nie rozumiesz, Å¼e w przeciwnym razie czeka na ciebie nagrobek z twym imieniem? To niezbyt miÅ‚a perspektywa, co?~
+@45   = ~ZapÅ‚acono mi, bym wrÃ³ciÅ‚a do Tazoka z twojÄ… gÅ‚owÄ…. Mam zamiar DOTRZYMAÄ† SÅOWA, jeÅ›li nie dasz mi powodu, bym ciÄ™ oszczÄ™dziÅ‚a.~
+@46   = ~OdmÃ³w mi, a nikt nie pomÅ›ci biednej Deheriany. JeÅ›li przyjmiesz mÄ… ofertÄ™... pomogÄ™ ci zajÅ›Ä‡ Tazoka. W koÅ„cu, wciÄ…Å¼ by nalegaÅ‚ z brutalnÄ… zawziÄ™toÅ›ciÄ… swojej podrasy, abym podciÄ™Å‚a ci gardÅ‚o.~
+@47   = ~Kiedy przyjdzie spÅ‚aciÄ‡ dÅ‚ug, sprzymierzÄ™ siÄ™ z tym, ktÃ³ry bardziej mi siÄ™ spodoba. I tu masz tÄ™ przewagÄ™ nad Tazokiem, Kivanie.~
+@48   = ~Hmmm... jeÅ›li siÄ™ tylko trochÄ™ umyjesz.~
 @49   = ~Tazok jest martwy, Srebrnoklinga.~
-@50   = ~Naiwniak... Wybornie! Nie, Kivanie, Tazok nie jest martwy. Tazok s³u¿y dowódcy ¯elaznego Tronu, który przywróci³ go do ¿ycia.~
-@51   = ~I tu jest lekcja dla ciebie - pan czasem pozwala psu na ucztê, by ten s³u¿y³ mu dobrze.~
-@52   = ~Och, znowu to SAMO! Lepiej nie próbuj lekcewa¿yæ mych s³ów, mellonamin.~
-@53   = ~Trwo¿ê siê dnia, w którym nazwê kogoœ takiego jak ty przyjacielem, ale nie lekcewa¿ê ciê. Wygl¹dasz na ca³kiem sprawn¹ morderczyniê, Imanel Srebrnoklinga.~
-@54   = ~A wiêc wybierasz œmieræ.~
-@55   = ~(wzdycha) A ju¿ mia³am zamiar zwróciæ ci ten ³uk... zaraz po tym, jak znaleŸlibyœmy lepszy.~
-@56   = ~Nie mogê ci¹gle chodziæ z ³ukiem, który ma wygrawerowany napis "mela en' coiamin Kivan". "Mojemu ukochanemu Kivanowi..." - a to wcale nie najgorsze w tym wszystkim.~
-@57   = ~Zastanawiam siê, dlaczego twoja ¿onka nie u¿y³a pergaminu, by napisaæ te wszystkie brednie i daæ ci go? Ach, ju¿ wiem! By³a pewna, ¿e ³uk nigdy nie opuœci twych r¹k...~
-@58   = ~Wzruszaj¹ce.~
-@59   = ~Zabijanie elfów to nie jest coœ, na co mam ochotê, Imanel. Pozwól mi odprowadziæ siê do kwater P³omiennej Piêœci albo innych przedstawicieli w³adzy, w których rêce chcia³abyœ siê oddaæ. Mo¿e jest jeszcze dla ciebie szansa na odkupienie.~
-@60   = ~Kivanie, jesteœ g³upcem, a wkrótce bêdziesz martwym g³upcem. Czy jest wœród was ktoœ, kto ma mózg? Do³¹czcie do mnie, i wspólnie zdobêdziemy masê z³ota i uciechy.~
-@61   = ~Pod warunkiem, ¿e ten zidiocia³y ³owca zginie...~
+@50   = ~Naiwniak... Wybornie! Nie, Kivanie, Tazok nie jest martwy. Tazok sÅ‚uÅ¼y dowÃ³dcy Å»elaznego Tronu, ktÃ³ry przywrÃ³ciÅ‚ go do Å¼ycia.~
+@51   = ~I tu jest lekcja dla ciebie - pan czasem pozwala psu na ucztÄ™, by ten sÅ‚uÅ¼yÅ‚ mu dobrze.~
+@52   = ~Och, znowu to SAMO! Lepiej nie prÃ³buj lekcewaÅ¼yÄ‡ mych sÅ‚Ã³w, mellonamin.~
+@53   = ~TrwoÅ¼Ä™ siÄ™ dnia, w ktÃ³rym nazwÄ™ kogoÅ› takiego jak ty przyjacielem, ale nie lekcewaÅ¼Ä™ ciÄ™. WyglÄ…dasz na caÅ‚kiem sprawnÄ… morderczyniÄ™, Imanel Srebrnoklinga.~
+@54   = ~A wiÄ™c wybierasz Å›mierÄ‡.~
+@55   = ~(wzdycha) A juÅ¼ miaÅ‚am zamiar zwrÃ³ciÄ‡ ci ten Å‚uk... zaraz po tym, jak znaleÅºlibyÅ›my lepszy.~
+@56   = ~Nie mogÄ™ ciÄ…gle chodziÄ‡ z Å‚ukiem, ktÃ³ry ma wygrawerowany napis "mela en' coiamin Kivan". "Mojemu ukochanemu Kivanowi..." - a to wcale nie najgorsze w tym wszystkim.~
+@57   = ~Zastanawiam siÄ™, dlaczego twoja Å¼onka nie uÅ¼yÅ‚a pergaminu, by napisaÄ‡ te wszystkie brednie i daÄ‡ ci go? Ach, juÅ¼ wiem! ByÅ‚a pewna, Å¼e Å‚uk nigdy nie opuÅ›ci twych rÄ…k...~
+@58   = ~WzruszajÄ…ce.~
+@59   = ~Zabijanie elfÃ³w to nie jest coÅ›, na co mam ochotÄ™, Imanel. PozwÃ³l mi odprowadziÄ‡ siÄ™ do kwater PÅ‚omiennej PiÄ™Å›ci albo innych przedstawicieli wÅ‚adzy, w ktÃ³rych rÄ™ce chciaÅ‚abyÅ› siÄ™ oddaÄ‡. MoÅ¼e jest jeszcze dla ciebie szansa na odkupienie.~
+@60   = ~Kivanie, jesteÅ› gÅ‚upcem, a wkrÃ³tce bÄ™dziesz martwym gÅ‚upcem. Czy jest wÅ›rÃ³d was ktoÅ›, kto ma mÃ³zg? DoÅ‚Ä…czcie do mnie, i wspÃ³lnie zdobÄ™dziemy masÄ™ zÅ‚ota i uciechy.~
+@61   = ~Pod warunkiem, Å¼e ten zidiociaÅ‚y Å‚owca zginie...~
